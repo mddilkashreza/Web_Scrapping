@@ -1,0 +1,150 @@
+Title: iPhone 9
+Price: 549
+Brand: Apple
+
+
+Title: iPhone X
+Price: 899
+Brand: Apple
+
+
+Title: Samsung Universe 9
+Price: 1249
+Brand: Samsung
+
+
+Title: OPPOF19
+Price: 280
+Brand: OPPO
+
+
+Title: Huawei P30
+Price: 499
+Brand: Huawei
+
+
+Title: MacBook Pro
+Price: 1749
+Brand: Apple
+
+
+Title: Samsung Galaxy Book
+Price: 1499
+Brand: Samsung
+
+
+Title: Microsoft Surface Laptop 4
+Price: 1499
+Brand: Microsoft Surface
+
+
+Title: Infinix INBOOK
+Price: 1099
+Brand: Infinix
+
+
+Title: HP Pavilion 15-DK1056WM
+Price: 1099
+Brand: HP Pavilion
+
+
+Title: perfume Oil
+Price: 13
+Brand: Impression of Acqua Di Gio
+
+
+Title: Brown Perfume
+Price: 40
+Brand: Royal_Mirage
+
+
+Title: Fog Scent Xpressio Perfume
+Price: 13
+Brand: Fog Scent Xpressio
+
+
+Title: Non-Alcoholic Concentrated Perfume Oil
+Price: 120
+Brand: Al Munakh
+
+
+Title: Eau De Perfume Spray
+Price: 30
+Brand: Lord - Al-Rehab
+
+
+Title: Hyaluronic Acid Serum
+Price: 19
+Brand: L'Oreal Paris
+
+
+Title: Tree Oil 30ml
+Price: 12
+Brand: Hemani Tea
+
+
+Title: Oil Free Moisturizer 100ml
+Price: 40
+Brand: Dermive
+
+
+Title: Skin Beauty Serum.
+Price: 46
+Brand: ROREC White Rice
+
+
+Title: Freckle Treatment Cream- 15gm
+Price: 70
+Brand: Fair & Clear
+
+
+Title: - Daal Masoor 500 grams
+Price: 20
+Brand: Saaf & Khaas
+
+
+Title: Elbow Macaroni - 400 gm
+Price: 14
+Brand: Bake Parlor Big
+
+
+Title: Orange Essence Food Flavou
+Price: 14
+Brand: Baking Food Items
+
+
+Title: cereals muesli fruit nuts
+Price: 46
+Brand: fauji
+
+
+Title: Gulab Powder 50 Gram
+Price: 70
+Brand: Dry Rose
+
+
+Title: Plant Hanger For Home
+Price: 41
+Brand: Boho Decor
+
+
+Title: Flying Wooden Bird
+Price: 51
+Brand: Flying Wooden
+
+
+Title: 3D Embellishment Art Lamp
+Price: 20
+Brand: LED Lights
+
+
+Title: Handcraft Chinese style
+Price: 60
+Brand: luxury palace
+
+
+Title: Key Holder
+Price: 30
+Brand: Golden
+
+
